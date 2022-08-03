@@ -1,0 +1,5 @@
+**idea**
+.Rproj.user
+*.Rproj
+*.Rhistory
+**__pycache**
